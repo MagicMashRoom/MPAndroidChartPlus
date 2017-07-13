@@ -1,7 +1,9 @@
-package com.hqyxjy.ldf.mpandroidchartplus;
+package com.hqyxjy.ldf.mpandroidchartplus.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.hqyxjy.ldf.mpandroidchartplus.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.github.mikephil.charting.charts.HorizontalBarChart
+        android:id="@+id/subject_chart"
+        android:layout_width="match_parent"
+        android:layout_height="325dp">
+    </com.github.mikephil.charting.charts.HorizontalBarChart>
+    <com.topglobaledu.uschool.widget.KnowledgeForcastChart
+        android:id="@+id/forcast_chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.topglobaledu.uschool.widget.KnowledgeForcastChart>
+</android.support.v4.widget.NestedScrollView>

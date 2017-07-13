@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="t0">17sp
+    </dimen>
+    <dimen name="t1">18sp
+    </dimen> <!--单行above5dp, bottom4dp; 多行above5.5dp, bottom3.5dp, middle default5.5dp--><!--以中文字符为基准; 约等于,可能有1dp误差-->
+    <dimen name="t2">16sp
+    </dimen> <!--单行above4dp, bottom3.5dp; 多行above4.5dp, bottom3dp, middle default5dp-->
+    <dimen name="t3">15sp
+    </dimen> <!--单行above3.5dp, bottom4dp; 多行above4dp, bottom3dp, middle default4dp-->
+    <dimen name="t4">14sp
+    </dimen> <!--单行above3.5dp, bottom3dp; 多行above4dp, bottom2。5dp, middle default4dp-->
+    <dimen name="t5">13sp
+    </dimen> <!--单行above3dp, bottom3.5dp; 多行above3.5dp, bottom2.5dp, middle default3dp-->
+    <dimen name="t6">12sp
+    </dimen> <!--单行above3dp, bottom2.5dp; 多行above3.5dp, bottom2.5dp, middle default3.5dp-->
+    <dimen name="t7">11sp
+    </dimen> <!--单行above3dp, bottom2.5dp; 多行above3.5dp, bottom2dp, middle default3dp-->
+    <dimen name="t8">10sp
+    </dimen> <!--单行above2.5dp, bottom2.5dp; 多行above3dp, bottom2dp, middle default3dp-->
+    <dimen name="t9">9.3sp
+    </dimen> <!--单行above2.5dp, bottom2.5dp; 多行above3dp, bottom2dp,middle default3dp-->
+</resources>

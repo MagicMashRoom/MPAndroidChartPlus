@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DashLineProgressBar">
+        <attr name="ring_radius" format="dimension" />
+        <attr name="ring_width" format="dimension" />
+        <attr name="out_ring_width" format="dimension" />
+        <attr name="in_ring_width" format="dimension" />
+        <attr name="ring_segment_count" format="integer" />
+        <attr name="ring_interval_rate" format="float" />
+        <attr name="ring_progress" format="float" />
+        <attr name="ring_background_color" format="color" />
+        <attr name="ring_fill_color" format="color" />
+        <attr name="ring_outline_color" format="color"></attr>
+        <attr name="ring_inline_color" format="color"></attr>
+    </declare-styleable>
+</resources>

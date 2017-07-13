@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="20.67dp"
+    android:layout_height="20.67dp">
+    <ImageView
+        android:layout_width="20.67dp"
+        android:layout_height="20.67dp"
+        android:src="@drawable/ic_study_report_linechart_point_select"/>
+</LinearLayout>
