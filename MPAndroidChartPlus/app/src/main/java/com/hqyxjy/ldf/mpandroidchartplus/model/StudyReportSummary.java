@@ -1,4 +1,4 @@
-package com.hqyxjy.ldf.mpandroidchartplus.chart;
+package com.hqyxjy.ldf.mpandroidchartplus.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -7,7 +7,7 @@ import android.os.Parcelable;
  * Created by ldf on 17/7/13.
  */
 
-class StudyReportSummary implements Parcelable {
+public class StudyReportSummary implements Parcelable {
     public String date = "";//统计日期 dateRange
     public String questionCount = "";//答题数
     public String rank = "";//排名

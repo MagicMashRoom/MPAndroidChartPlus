@@ -29,6 +29,7 @@ import com.github.mikephil.charting.utils.MPPointF;
 import com.github.mikephil.charting.utils.Utils;
 import com.hqyxjy.ldf.mpandroidchartplus.R;
 import com.hqyxjy.ldf.mpandroidchartplus.marker.StudyReportLineChartSpotSelectedView;
+import com.hqyxjy.ldf.mpandroidchartplus.model.StudyReportSummary;
 import com.hqyxjy.ldf.mpandroidchartplus.other.DS;
 import com.hqyxjy.ldf.mpandroidchartplus.other.DashLineProgressBar;
 
